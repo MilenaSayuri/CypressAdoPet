@@ -2,3 +2,4 @@
 node_modules/
 videos/
 results/
+cypress.env.json

@@ -4,7 +4,7 @@ const {
 
 module.exports = defineConfig({
   projectId: "b5wi4f",
-  allowCypressEnv: false,
+  allowCypressEnv: true,
 
   e2e: {
     setupNodeEvents(on, config) {
